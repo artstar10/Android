@@ -1,0 +1,4 @@
+#Fri Jun 07 14:56:19 BRT 2019
+base.0=C\:\\AppCTT\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\3
+path.0=classes.dex
+renamed.0=classes.dex
