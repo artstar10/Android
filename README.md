@@ -1,2 +1,8 @@
 # AppCTT
-aplicativo para adicionar contatos, nome, e-mail, atualizar e excluir
+Aplicativo android para adicionar seus contatos:
+ADICONAR:
+* Nome
+* E-mail
+ATUALIZAR E EXCLUIR
+* Nome
+* E-mail
