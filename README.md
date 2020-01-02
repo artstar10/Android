@@ -1,5 +1,5 @@
 # AppCTT
-Aplicativo android para adicionar seus contatos:
+Aplicativo android para adicionar contatos:
 
 ADICIONAR:
 * Nome
